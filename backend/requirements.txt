@@ -1,0 +1,6 @@
+azure-functions
+agent-framework --pre
+agent-framework-azurefunctions --pre
+azure-identity
+python-dotenv
+requests

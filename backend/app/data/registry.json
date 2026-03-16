@@ -1,0 +1,23 @@
+[
+  {
+    "id": "org-001",
+    "name": "pfizer sa",
+    "address": "boulevard de la plaine 17",
+    "city": "bruxelles",
+    "country": "belgium"
+  },
+  {
+    "id": "org-002",
+    "name": "pfizer belgium nv",
+    "address": "boulevard de la plaine 17",
+    "city": "bruxelles",
+    "country": "belgium"
+  },
+  {
+    "id": "org-003",
+    "name": "novartis belgium",
+    "address": "avenue louise 120",
+    "city": "bruxelles",
+    "country": "belgium"
+  }
+]
