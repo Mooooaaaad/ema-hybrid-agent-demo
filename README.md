@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EMA Hybrid Agent Workflow Demo
 
 This project demonstrates a hybrid AI workflow using:
