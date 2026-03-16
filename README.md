@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EMA Hybrid Agent Workflow Demo
 
 This project demonstrates a hybrid AI workflow using:
@@ -65,3 +66,4 @@ registry_lookup (tool)
 resolution_agent (LLM)
 ↓
 decision
+
